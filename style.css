@@ -4,12 +4,40 @@
   box-sizing: border-box;
 }
 
-body * {
-  font-family: "League Spartan", sans-serif;
-  font-family: "Work Sans", sans-serif;
+body {
+  background: #121214;
 }
 
 #container img {
   width: 1175px;
   height: 784px;
+}
+
+#short-text h2 {
+  font-family: "Work Sans", sans-serif;
+  color: #08c05e;
+}
+
+#short-text h4 {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 500;
+  color: #ffffff;
+}
+
+#short-text p {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 200;
+  color: #ffffff;
+}
+
+#email h4 {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 500;
+  color: #a8a8a8;
+}
+
+#link h4 {
+  font-family: "League Spartan", sans-serif;
+  font-weight: 500;
+  color: #8257e5;
 }
